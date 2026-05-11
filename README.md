@@ -44,3 +44,22 @@
 | 📅 | **14-Day Calendar** | Full forecast calendar view |
 | ⛈️ | **Animations** | Rain, snow, sun, clouds, thunderstorm effects |
 | 📱 | **Compatibility** | Android 8.0+ (API 26+) |
+
+
+---
+
+
+##  ⭐ Application 
+
+- Go to Releases "Atmos v1.0.0"
+- Download the "AtmosINS.apk"
+
+---
+
+## 📝 Notes
+
+- First launch will request **location permission**
+- If denied → type any city name and tap **Go**
+- `local.properties` · `.gradle/` · `.idea/` · build outputs are gitignored
+
+---
