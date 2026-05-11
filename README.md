@@ -26,8 +26,8 @@
 
 ---
 
-<img width="3840" height="2160" alt="atmos_poster1_ui_showcase" src="1.png" />
-<img width="3840" height="2160" alt="atmos_poster2_minimal_16x9" src="2.png" />
+<img width="3840" height="2160" alt="atmos_poster1_ui_showcase" src="screenshots/1.png" />
+<img width="3840" height="2160" alt="atmos_poster2_minimal_16x9" src="screenshots/2.png" />
 
 <br/>
 
