@@ -60,6 +60,5 @@
 
 - First launch will request **location permission**
 - If denied → type any city name and tap **Go**
-- `local.properties` · `.gradle/` · `.idea/` · build outputs are gitignored
 
 ---
