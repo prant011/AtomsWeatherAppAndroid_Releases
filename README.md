@@ -26,8 +26,8 @@
 
 ---
 
-<img width="3840" height="2160" alt="atmos_poster1_ui_showcase" src="https://github.com/user-attachments/assets/77ac6d44-6ba8-4549-b655-cfed0e2826c3" />
-<img width="3840" height="2160" alt="atmos_poster2_minimal_16x9" src="https://github.com/user-attachments/assets/b0bf2eba-daae-4323-9839-4a0bc2b9a926" />
+<img width="3840" height="2160" alt="atmos_poster1_ui_showcase" src="1.png" />
+<img width="3840" height="2160" alt="atmos_poster2_minimal_16x9" src="2.png" />
 
 <br/>
 
