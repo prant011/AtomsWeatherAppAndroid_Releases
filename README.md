@@ -50,6 +50,7 @@
 
 
 ##  ⭐ Application 
+
     --version_1
 - Go to Releases "Atmos v1.0.0"
 - Download the "AtmosINS.apk"
