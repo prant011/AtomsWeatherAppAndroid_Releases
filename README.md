@@ -51,11 +51,11 @@
 
 ##  ⭐ Application 
 
-    --version_1
+### Version 1
 - Go to Releases "Atmos v1.0.0"
 - Download the "AtmosINS.apk"
 
-    --version_2
+### Version 2
 - Go to Releases "Atmos v2.0.0"
 - Download the "AtmosINSv2.apk"
 
